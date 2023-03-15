@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm @bt-koch</h1>
 
-<img align="right" src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" alt="gif" width = "400" />
+<!-- <img align="right" src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" alt="gif" width = "400" /> -->
 
 - 🎓 I'm in my Masters in Applied Economic Analysis and Banking and Finance
 - 👀 I’m interested in economics, econometrics, finance and data science
 - 🌱 I’m currently learning more about the intersection between economics/finance and econometrics/data science
 - 👨‍💻 I'm working in Financial Statistics at the Swiss Government
 
-<h2 align="left">Tools I'm using on a daily basis</h2>
+<h2 align="left">Tools I'm using on a regular basis</h2>
 
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r"
