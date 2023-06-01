@@ -15,12 +15,13 @@
 <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex"
       width="50" height="50" /> </a>
-      
-<h2 align="left">Tools I use(d)</h2>
-      
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="50" height="50" /> </a>
+      
+<h2 align="left">Tools I use(d)</h2>
+      
+
 <a href="https://www.stata.com" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" alt="stata"
       width="50" height="50" /> </a>
