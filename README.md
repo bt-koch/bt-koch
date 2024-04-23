@@ -43,6 +43,34 @@
 <a> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
       width="40" height="40" /> </a>
+
+<p align="center">
+
+
+
+</p>
+
+<details close> 
+  <summary><h2>🔬 Research Projects</h2></summary>
       
+  <p align="left">
+    <a href="https://github.com/bt-koch/optipod"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=optipod&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="optipod"></a>
       
+<a href="https://github.com/bt-koch/ML-in-Economics"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=ML-in-Economics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-in-Economics"></a>
+  </p>
+</details>
+
+<details close> 
+  <summary><h2>💾 Data Collection</h2></summary>
+      
+  <p align="left">
+    <a href="https://github.com/bt-koch/ivolR"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=ivolR&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ivolR"></a>
+      
+<a href="https://github.com/bt-koch/refinipy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=refinipy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="refinipy"></a>
+
+<a href="https://github.com/bt-koch/scrape-classictrader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=scrape-classictrader&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="scrape-classictrader"></a>
+  </p>
+</details>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bt-koch's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bt-koch&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
