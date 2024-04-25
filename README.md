@@ -6,6 +6,7 @@
 - 👀 I’m interested in economics, econometrics, finance and data science
 - 🌱 I’m currently learning more about the intersection between economics/finance and econometrics/data science
 - 👨‍💻 I'm working in Financial Statistics at the Swiss Government
+- 🔬 I'm currently collaborating in a research project with the European Central Bank
 
 <h2 align="left">Tools I'm using on a regular basis</h2>
 
@@ -50,13 +51,27 @@
 
 </p>
 
+<h2 align="left">Repositories Overview</h2>
 <details close> 
   <summary><h2>🔬 Research Projects</h2></summary>
-      
-  <p align="left">
-    <a href="https://github.com/bt-koch/optipod"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=optipod&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="optipod"></a>
-      
-<a href="https://github.com/bt-koch/ML-in-Economics"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=ML-in-Economics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-in-Economics"></a>
+      <h3>University Projects</h3>
+      <p align="left">
+            <a href="https://github.com/bt-koch/optipod"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=optipod&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="optipod"></a>
+            <a href="https://github.com/bt-koch/ML-in-Economics"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=ML-in-Economics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-in-Economics"></a>
+      </p>
+      <h3>MOOC Projects</h3>
+      <p align="left">
+            <a href="https://github.com/bt-koch/ML-project-classic-trader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=ML-project-classic-trader&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-project-classic-trader"></a>
+            <a href="https://github.com/bt-koch/ML-project-movielens"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=ML-project-movielens&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-project-movielens"></a>
+      </p>
+  
+</details>
+
+<details close> 
+  <summary><h2>💻 Simple Software Development Projects</h2></summary>
+      <p align="left">
+            <a href="https://github.com/bt-koch/acrm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=acrm&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="acrm"></a>
+            <a href="https://github.com/bt-koch/energy-monitor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=energy-monitor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="energy-monitor"></a>
   </p>
 </details>
 
@@ -64,11 +79,9 @@
   <summary><h2>💾 Data Collection</h2></summary>
       
   <p align="left">
-    <a href="https://github.com/bt-koch/ivolR"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=ivolR&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ivolR"></a>
-      
-<a href="https://github.com/bt-koch/refinipy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=refinipy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="refinipy"></a>
-
-<a href="https://github.com/bt-koch/scrape-classictrader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=scrape-classictrader&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="scrape-classictrader"></a>
+        <a href="https://github.com/bt-koch/ivolR"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=ivolR&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ivolR"></a>
+        <a href="https://github.com/bt-koch/refinipy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=refinipy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="refinipy"></a>
+        <a href="https://github.com/bt-koch/scrape-classictrader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=scrape-classictrader&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="scrape-classictrader"></a>
   </p>
 </details>
 
