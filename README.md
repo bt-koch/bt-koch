@@ -84,6 +84,3 @@
         <a href="https://github.com/bt-koch/scrape-classictrader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=scrape-classictrader&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="scrape-classictrader"></a>
   </p>
 </details>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bt-koch's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bt-koch&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-
