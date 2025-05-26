@@ -2,11 +2,11 @@
 
 <!-- <img align="right" src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" alt="gif" width = "400" /> -->
 
-- 🎓 I'm in my Masters in Applied Economic Analysis and Banking and Finance
-- 👀 I’m interested in economics, econometrics, finance and data science
-- 🌱 I’m currently learning more about the intersection between economics/finance and econometrics/data science
-- 👨‍💻 I'm working in Financial Statistics at the Swiss Government
-- 🔬 I'm currently collaborating in a research project with the European Central Bank
+- 💼 Gained experience as an Data Scientist, Data Analyst and Economist in Financial Statistics at the Swiss Government
+- 🎓 Masters in Applied Economic Analysis and Banking and Finance where I focused on Quantitative Methods
+- 👀 Interested in economics, econometrics, finance and data science
+- 👨‍💻 Working in Financial Stability at the Swiss National Bank
+- 🔬 Collaborating in a research project with the European Central Bank
 
 <h2 align="left">Tools I'm using on a regular basis</h2>
 
@@ -47,15 +47,15 @@
 
 <p align="center">
 
-
-
 </p>
 
 <h2 align="left">Repositories Overview</h2>
-<details close> 
+
+<details open> 
   <summary><h2>🔬 Research Projects</h2></summary>
       <h3>University Projects</h3>
       <p align="left">
+            <a href="https://github.com/bt-koch/newsews"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=newsews&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="newsews"></a>
             <a href="https://github.com/bt-koch/optipod"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=optipod&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="optipod"></a>
             <a href="https://github.com/bt-koch/ML-in-Economics"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=ML-in-Economics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-in-Economics"></a>
       </p>
@@ -67,7 +67,7 @@
   
 </details>
 
-<details close> 
+<details open> 
   <summary><h2>💻 Simple Software Development Projects</h2></summary>
       <p align="left">
             <a href="https://github.com/bt-koch/acrm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bt-koch&repo=acrm&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="acrm"></a>
@@ -75,7 +75,7 @@
   </p>
 </details>
 
-<details close> 
+<details open> 
   <summary><h2>💾 Data Collection</h2></summary>
       
   <p align="left">
