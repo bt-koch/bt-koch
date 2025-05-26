@@ -21,7 +21,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="50" height="50" /> </a>
 <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex"
+      src="https://cdn.brandfetch.io/latex-project.org/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" alt="latex"
       width="50" height="50" /> </a>
       
 <h2 align="left">Tools I use(d)</h2>
