@@ -48,6 +48,9 @@
 <a> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
       width="40" height="40" /> </a>
+<a> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matlab/matlab-original.svg" alt="matlab"
+      width="40" height="40" /> </a>
 
 <p align="center">
 
