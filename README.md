@@ -2,7 +2,7 @@
 
 <!-- <img align="right" src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" alt="gif" width = "400" /> -->
 
-- 💼 Gained experience as an Data Scientist, Data Analyst and Economist in Financial Statistics at the Swiss Government
+- 💼 Gained experience as a Data Scientist, Data Analyst and Economist in Financial Statistics at the Swiss Government
 - 🎓 Masters in Applied Economic Analysis and Banking and Finance where I focused on Quantitative Methods
 - 👀 Interested in economics, econometrics, finance and data science
 - 👨‍💻 Working in Financial Stability at the Swiss National Bank
