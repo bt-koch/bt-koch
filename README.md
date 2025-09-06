@@ -8,10 +8,6 @@
 - 👨‍💻 Working in Financial Stability at the Swiss National Bank
 - 🔬 Collaborating in a research project with the European Central Bank
 
-<h2 align="left">Top languages used for personal projects</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bt-koch&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2 align="left">Tools I'm using on a regular basis</h2>
 
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img
